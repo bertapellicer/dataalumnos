@@ -1,0 +1,10 @@
+[{"alumno":"Berta","nota":4.9,"ranking":170},
+{"alumno":"Juan","nota":4,"ranking":150},
+{"alumno":"Charlies","nota":6,"ranking":68},
+{"alumno":"Marta","nota":1,"ranking":459},
+{"alumno":"Alexia","nota":10,"ranking":2},
+{"alumno":"Rodrigo","nota":7,"ranking":49},
+{"alumno":"Carlita","nota":0.3,"ranking":512},
+{"alumno":"Manel","nota":3.5,"ranking":321},
+{"alumno":"Joana","nota":8.5,"ranking":35},
+]
